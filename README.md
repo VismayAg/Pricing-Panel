@@ -1,1 +1,1 @@
-# Pricing-Panel
+https://vismayag.github.io/Pricing-Panel/
